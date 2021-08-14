@@ -9,8 +9,8 @@ git push : remote(원격) 저장소에 저장하는 명령.
 git commit -m text : commit할 때 message를 남겨서 저장.
 git add . : 현재 디렉토리의 모든 변경점을 stage에 저장.
    
-github로부터 받아오는 방법
-git clone url
+github로부터 받아오는 방법   
+git clone url   
    
 내 변경점을 github로 올리는방법 , 순서대로 (Getting Started)   
 1. bash를 실행해서 내 디렉토리로 이동한다.   
