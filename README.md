@@ -18,5 +18,5 @@ git clone url
   : git add .
 3. 내 변경점을 local 저장소에 저장한다.   
   : git commit -m message
-4. 내 변경점을 remote 저장소에 저장한다.
+4. 내 변경점을 remote 저장소에 저장한다.   
   : git push origin
