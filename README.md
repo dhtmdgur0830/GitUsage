@@ -22,5 +22,5 @@ git clone url
   : git push origin
 
 ## Git 서버와 내 로컬 동기화
-git fetch
+git fetch   
 git pull
