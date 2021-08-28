@@ -24,3 +24,5 @@ git clone url
 ## Git 서버와 내 로컬 동기화
 git fetch   
 git pull
+
+test
