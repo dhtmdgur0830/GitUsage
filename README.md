@@ -24,6 +24,6 @@ git clone url
 ## Git 서버와 내 로컬 동기화 (끌어오기)
 git fetch : 원격의 상황을 확인할 수 있도록 로컬에 remote 상황(이력)만 가져오기   
 git pull : 원격의 상황을 동일한 브랜치이면, merge 또는 rebase 하기
-git branch : version 을 관리하는 줄기 (SW를 독립적으로 관리하기 위한 개념)
- : git branch는 항상 최신버전의 HEAD를 바라보고 있다.
+git branch : version 을 관리하는 줄기 (SW를 독립적으로 관리하기 위한 개념)   
+ : git branch는 항상 최신버전의 HEAD를 바라보고 있다.   
 git checkout : branch를 이동하는 명령
